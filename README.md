@@ -18,7 +18,7 @@
   
   
   
-</head>
+
 <body>
   <section class="menu cid-r77ZDKnro7" once="menu" id="menu1-d">
 
