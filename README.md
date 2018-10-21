@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html >
-<head>
   <!-- Site made with Mobirise Website Builder v4.8.6, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
